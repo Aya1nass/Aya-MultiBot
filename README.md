@@ -13,7 +13,7 @@ A smart and efficient Telegram assistant built with Python. This bot integrates 
 * *Python-dotenv* (For managing environment variables)
 * *OpenWeatherMap API* (For weather data)
 
-## skills gained
+## Skills gained
 - Asynchronous programming with Python (async/await)  
 - API integration and data handling  
 - Secure configuration management with environment variables  
